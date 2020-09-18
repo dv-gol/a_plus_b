@@ -10,7 +10,7 @@ int main() {
     cout << "Vvedite chislo 2:";
     cin >> y;
 
-    cout << "x + y = " << x + y << endl;
+    cout << "x * y = " << x * y << endl;
 
     return 0;
 }
